@@ -1,0 +1,123 @@
+body
+{
+	font-family:Arial;
+}
+textarea
+{
+	resize: none;
+	font-size: 0.9em;
+	width: 100px;
+}
+#nem
+{
+	display: none
+}
+table#also
+{
+	font-size: 0.8em;
+	border: 1px solid black;
+	width: 100%;
+}
+th
+{
+	text-align: center;
+}
+table#felso
+{
+	font-size: 0.8em;
+	border: 1px solid black;
+	width: 100%;
+}
+#kep
+{
+	justify-content: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+#leiras
+{
+	font-size: 1.2em;
+}
+select
+{
+	width: 160px;
+}	
+#smallselect
+{
+	width: 120px;
+}	
+#input
+{
+	width: 150px;
+}
+#gomb
+{
+	width: 150px;
+}
+#checkboi
+{
+	width: 1%;
+}
+#cikkszam
+{
+	width: 2%;
+}
+#gyarto
+{
+	width: 5%;
+}
+#cikknev
+{
+	width: 20%;
+}
+#kat
+{
+	width: 10%;
+}
+#ar
+{
+	width: 4%;
+	text-align: right;
+}
+#beszar
+{
+	width: 1%;
+	text-align: right;
+}
+#garancia
+{
+	width: 8%;
+	text-align: center;
+}
+#keszlet
+{
+	width: 2%;
+	text-align: center;
+}
+#ajandek
+{
+	width: 2%;
+}
+#kepjel
+{
+	width: 2%;
+}
+#sizearea
+{
+	width: 3%;
+}
+#megjegyzes
+{
+	width: 10%;
+}
+#miss
+{
+	text-align: center;
+	color: red
+}
+#osszes
+{
+	float: right;
+}
